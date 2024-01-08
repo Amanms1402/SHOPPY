@@ -1,3 +1,4 @@
-## E-Commerce App
+## Check out the working at:
+https://clipchamp.com/watch/pzsfG4fHmfX
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+
